@@ -1,0 +1,33 @@
+静态页
+网上课件，清华大学网
+主页文件名 index.php
+实际网站要注意防护：改名
+
+<B>****</B>加粗（或strong）
+<meta>不成对，用于指明与文件内容相关的内容
+<p></p>换行
+<br></br>段落
+
+找素材时，在网页复制，粘贴到world，删去人工换行符
+查找替换，特殊格式，手动换行符（L）
+
+ bgcolor="#33FFFF" text="#000000" link="#FF0000" alink="#00CC33" vlink="#CC3399"
+应该放在外部文件
+
+#  用id引用 
+  .   class引用
+
+
+div “块” 此时可用align属性center
+
+width和height设置一个即可
+
+vspace=#和hspace=#图片水平方向和垂直方向空间
+
+
+
+
+
+
+
+
